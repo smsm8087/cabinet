@@ -30,3 +30,11 @@ a {
 input {
     padding: 0;
 }
+
+input[name="nowongu"] {
+    display: none;
+}
+
+.margin-b-20 {
+    margin-bottom: 20px;
+}

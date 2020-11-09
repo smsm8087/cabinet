@@ -19,8 +19,8 @@ const Routes = ({ auth }) => {
       <Switch>
 
         <Route exact path='/' component={Index} />
-        <Route exact path='/about' component={Products} />
         <Route exact path='/services' component={Services} />
+        <Route exact path='/about' component={Products} />
 
       </Switch>
       <Footer />

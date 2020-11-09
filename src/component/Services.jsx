@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import Gurogu from "./Gurogu";
+import Nowongu from "./Nowongu";
 import Suwon from "./Suwon";
 import Hongdae from "./hongdae";
 
@@ -15,6 +15,7 @@ class Services extends Component {
     }
   }
 
+
   render() {
 
     return (
@@ -22,7 +23,15 @@ class Services extends Component {
         <Search />
         <div>
           {
-            this.state.value === "구로구" ?  <Gurogu /> : ''
+            this.state.value === null ?
+              <div>
+                검색어를 입력해주세요.
+              </div>
+              : ''
+          }
+
+          {
+            this.state.value === "노원구" ?  <Nowongu /> : ''
           }
 
           {

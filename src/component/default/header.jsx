@@ -15,11 +15,11 @@ class Header extends Component {
           <div className= "mainTitle">
             <ul>
               <li>
-                <NavLink to="/" exact={true}>HOME</NavLink>
+                <NavLink to="/">HOME</NavLink>
               </li>
-              <li>
-                <NavLink to="/services">SERVICES</NavLink>
-              </li>
+              {/*<li>*/}
+              {/*  <NavLink to="/services">SERVICES</NavLink>*/}
+              {/*</li>*/}
               <li>
                 <NavLink to="/about">ABOUT US</NavLink>
               </li>
