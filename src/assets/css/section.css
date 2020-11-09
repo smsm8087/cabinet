@@ -164,6 +164,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 5rem;
 }
 
 .service-list-box {
@@ -195,10 +196,11 @@ img {
 
 .service-list-box > ul li label {
     cursor: pointer;
+    border-bottom: .1rem solid #ffffff;
 }
 
 .service-list-box > ul li:hover label {
-    text-decoration: underline;
+    border-bottom: .1rem solid #666666;
 }
 
 .border-b {
@@ -226,6 +228,14 @@ img {
     justify-content: space-between;
     margin: 1.5rem 0;
     color: #000000;
+}
+
+.service-list ul li a {
+    border-bottom: .1rem solid #ffffff;
+}
+
+.service-list ul li:hover a {
+    border-bottom: .1rem solid #666666;
 }
 
 .news-list {
