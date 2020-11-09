@@ -16,7 +16,7 @@ class Products extends Component {
               <li>김도형</li>
               <li>손성현</li>
               <li>정효경</li>
-              <li>박미래</li>
+              <li>박시원</li>
             </ul>
           </div>
         </div>

@@ -160,10 +160,18 @@ img {
     text-align: right;
 }
 
+.service-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .service-list-box {
     display: flex;
     align-items: flex-start;
-    justify-content: center;
+    justify-content: space-between;
+    padding: 5rem 0;
+    width: 128rem;
 }
 
 .service-list-box > ul {
@@ -172,6 +180,7 @@ img {
     justify-content: center;
     flex-direction: column;
     margin-right: 10rem;
+    margin-left: 2rem;
 }
 
 .service-list-box li.service-list-title {
@@ -190,6 +199,10 @@ img {
 
 .service-list-box > ul li:hover label {
     text-decoration: underline;
+}
+
+.border-b {
+    border-bottom: .1rem solid #666666;
 }
 
 .service-list {
@@ -230,9 +243,12 @@ img {
     color: #000000;
 }
 
-#sanggye:checked ~ .service-list-box .service-sanggye,
-#junggye:checked ~ .service-list-box .service-junggye,
-#woulgye:checked ~ .service-list-box .service-woulgye {
+#sanggye:checked ~ div .service-list-box .service-sanggye,
+#junggye:checked ~ div .service-list-box .service-junggye,
+#woulgye:checked ~ div .service-list-box .service-woulgye,
+#sanggye1:checked ~ div .service-list-box .service-sanggye1,
+#junggye1:checked ~ div .service-list-box .service-junggye1,
+#woulgye1:checked ~ div .service-list-box .service-woulgye1 {
     display: flex;
     align-items: flex-start;
     justify-content: center;
@@ -240,4 +256,27 @@ img {
 
 .color-red {
     color: #ae1a1a;
+}
+
+.image-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 5rem;
+}
+
+.image-box h4 {
+    margin-top: 5rem;
+    font-size: 2.6rem;
+}
+
+.table-image {
+    display: block;
+    width: 100rem;
+    height: 35rem;
+    background: url("../images/table.png");
+    background-size: 90rem;
+    background-repeat: no-repeat;
+    background-position: center center;
 }
