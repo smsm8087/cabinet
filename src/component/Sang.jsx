@@ -85,7 +85,7 @@ class Sang extends Component {
           </table>
         </div>
         <div className="image-box">
-          <h4>예측 그래표</h4>
+          <h4>예측 그래프</h4>
           <span className="table-image"></span>
         </div>
       </React.Fragment>

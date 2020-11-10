@@ -139,7 +139,7 @@ class Nowongu extends Component {
         <div className="service-box">
           <div className="service-list-box">
             <ul>
-              <li className="margin-b-20 service-list-title">신고건수 top3 동</li>
+              <li className="margin-b-20 service-list-title">신고가건수 top3 동</li>
               <li>
                 <label htmlFor="sanggye1">상계동</label>
               </li>
