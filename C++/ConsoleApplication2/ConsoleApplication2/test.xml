@@ -1,0 +1,6 @@
+<Player filePath="image/player.png">
+    <State HP="500" ATTACK="200"/>
+    <Action Type="loop">
+        <Frame x="10" y="10" z="10"/>
+    </Action>
+</Player>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2018_06_20 숙제 2017 넷마블 입사시험2", "2018_06_20 숙제 2017 넷마블 입사시험2\2018_06_20 숙제 2017 넷마블 입사시험2.vcxproj", "{561C0677-52BD-4C27-B673-33CAD1AB9519}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Debug|x64.ActiveCfg = Debug|x64
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Debug|x64.Build.0 = Debug|x64
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Debug|x86.ActiveCfg = Debug|Win32
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Debug|x86.Build.0 = Debug|Win32
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Release|x64.ActiveCfg = Release|x64
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Release|x64.Build.0 = Release|x64
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Release|x86.ActiveCfg = Release|Win32
+		{561C0677-52BD-4C27-B673-33CAD1AB9519}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829C8EA3-5DB2-4DDA-97BC-0D20E367D63D}
+	EndGlobalSection
+EndGlobal

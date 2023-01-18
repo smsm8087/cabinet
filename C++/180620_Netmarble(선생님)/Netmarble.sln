@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Netmarble", "Netmarble\Netmarble.vcxproj", "{955EE54D-2B13-4924-9859-8A278B5965F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Debug|x64.ActiveCfg = Debug|x64
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Debug|x64.Build.0 = Debug|x64
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Debug|x86.Build.0 = Debug|Win32
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Release|x64.ActiveCfg = Release|x64
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Release|x64.Build.0 = Release|x64
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Release|x86.ActiveCfg = Release|Win32
+		{955EE54D-2B13-4924-9859-8A278B5965F3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF3496DA-1E81-4B35-8D45-A7980A09D1F0}
+	EndGlobalSection
+EndGlobal
