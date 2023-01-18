@@ -1,0 +1,10 @@
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\bin\Debug\StackCalcCS.exe.config
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\bin\Debug\StackCalcCS.exe
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\bin\Debug\StackCalcCS.pdb
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.csprojAssemblyReference.cache
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.Properties.Resources.resources
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.csproj.GenerateResource.cache
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.csproj.CoreCompileInputs.cache
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.exe
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.pdb
+C:\Users\김도형\Desktop\SGA수업\c#\StackCalcCS\StackCalcCS\obj\Debug\StackCalcCS.MainForm.resources

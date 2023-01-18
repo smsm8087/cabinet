@@ -1,0 +1,10 @@
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\bin\Debug\RunGame.exe.config
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\bin\Debug\RunGame.exe
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\bin\Debug\RunGame.pdb
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.csprojAssemblyReference.cache
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.Form1.resources
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.Properties.Resources.resources
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.csproj.GenerateResource.cache
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.csproj.CoreCompileInputs.cache
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.exe
+C:\Users\김도형\Desktop\SGA수업\c#\RunGame\RunGame\obj\Debug\RunGame.pdb

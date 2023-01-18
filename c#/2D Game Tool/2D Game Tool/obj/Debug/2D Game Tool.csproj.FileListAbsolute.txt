@@ -1,0 +1,24 @@
+D:\Sources\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.exe.config
+D:\Sources\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.exe
+D:\Sources\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.pdb
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Properties.Resources.resources
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csproj.GenerateResource.cache
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csproj.CoreCompileInputs.cache
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.exe
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.pdb
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csprojAssemblyReference.cache
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.myPanel.MyPanels.resources
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Form_Main.resources
+D:\Sources\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Forms.Form_FloorIndexSetting.resources
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.exe.config
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.exe
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\bin\Debug\2D Game Tool.pdb
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csprojAssemblyReference.cache
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Forms.Form_FloorIndexSetting.resources
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Form_Main.resources
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.myPanel.MyPanels.resources
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\_2D_Game_Tool.Properties.Resources.resources
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csproj.GenerateResource.cache
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.csproj.CoreCompileInputs.cache
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.exe
+C:\Users\김도형\Desktop\SGA수업\c#\2D Game Tool\2D Game Tool\obj\Debug\2D Game Tool.pdb
