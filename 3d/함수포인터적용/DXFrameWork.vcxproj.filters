@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FrameWork">
+      <UniqueIdentifier>{ee79d9f1-339c-4efe-8b42-b4cc07d3bfd6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Device">
+      <UniqueIdentifier>{1802b096-5880-40ec-82a8-4a3105b27d3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{beda31ff-260c-4868-8c42-7a15c0d25b48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\PaintTool">
+      <UniqueIdentifier>{14fe4a66-cc11-463f-8fdd-b578a912c0ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\InputManager">
+      <UniqueIdentifier>{cdb1e7f1-c2ce-4d84-80b5-0b4019934fdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\SRTTest">
+      <UniqueIdentifier>{0ab9c674-88d8-42c1-abd4-c11e585e5193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\TextureTest">
+      <UniqueIdentifier>{499e70b1-e5ea-4d80-84ff-dbfaa5b31c11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Camera">
+      <UniqueIdentifier>{e2aba0a0-42f9-4e9f-a4e2-0377295b60cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Texture">
+      <UniqueIdentifier>{7776b941-17f6-4781-8460-884b69ff74eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\SolarSystem">
+      <UniqueIdentifier>{6fcf9d6a-e7f4-409a-92f3-a0f3e4813006}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\World">
+      <UniqueIdentifier>{64d68d60-b196-4566-bc33-6a6cf459b257}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Animator">
+      <UniqueIdentifier>{aae91891-39a6-463c-905a-cc973e4d76b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\XmlTest">
+      <UniqueIdentifier>{3db55d2f-6073-49fb-9f50-ffd454297339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Xml">
+      <UniqueIdentifier>{817234a6-331d-4419-b157-72d171908f9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\ShaderTest">
+      <UniqueIdentifier>{e06ca24d-4edc-4882-90fa-8c7726c04167}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Shader">
+      <UniqueIdentifier>{c3bf2c7e-5c37-403d-a019-5ec59838bd85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FrameWork\Timer">
+      <UniqueIdentifier>{f45f54ba-c019-4925-a783-7cbebbf2d0ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MainGame\XmlTest\WVPTest">
+      <UniqueIdentifier>{4211f5b7-0731-4e93-88a9-822d83e67fc0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DXFrameWork.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Device.h">
+      <Filter>FrameWork\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="PaintTool.h">
+      <Filter>MainGame\PaintTool</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>FrameWork\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="Test.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="WVPTest.h">
+      <Filter>MainGame\XmlTest\WVPTest</Filter>
+    </ClInclude>
+    <ClInclude Include="SRTTest.h">
+      <Filter>MainGame\SRTTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>FrameWork\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureTest.h">
+      <Filter>MainGame\TextureTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>FrameWork\Texture</Filter>
+    </ClInclude>
+    <ClInclude Include="SolarSystem.h">
+      <Filter>MainGame\SolarSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="Planet.h">
+      <Filter>MainGame\SolarSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>FrameWork\World</Filter>
+    </ClInclude>
+    <ClInclude Include="Animator.h">
+      <Filter>FrameWork\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlTest.h">
+      <Filter>MainGame\XmlTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Xml.h">
+      <Filter>FrameWork\Xml</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>MainGame\XmlTest</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderTest.h">
+      <Filter>MainGame\ShaderTest</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>FrameWork\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>FrameWork\Timer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DXFrameWork.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Device.cpp">
+      <Filter>FrameWork\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="PaintTool.cpp">
+      <Filter>MainGame\PaintTool</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>FrameWork\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="WVPTest.cpp">
+      <Filter>MainGame\XmlTest\WVPTest</Filter>
+    </ClCompile>
+    <ClCompile Include="SRTTest.cpp">
+      <Filter>MainGame\SRTTest</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureTest.cpp">
+      <Filter>MainGame\TextureTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>FrameWork\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>FrameWork\Texture</Filter>
+    </ClCompile>
+    <ClCompile Include="SolarSystem.cpp">
+      <Filter>MainGame\SolarSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="Planet.cpp">
+      <Filter>MainGame\SolarSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>FrameWork\World</Filter>
+    </ClCompile>
+    <ClCompile Include="Animator.cpp">
+      <Filter>FrameWork\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="XmlTest.cpp">
+      <Filter>MainGame\XmlTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Xml.cpp">
+      <Filter>FrameWork\Xml</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>MainGame\XmlTest</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderTest.cpp">
+      <Filter>MainGame\ShaderTest</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>FrameWork\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>FrameWork\Timer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DXFrameWork.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="DXFrameWork.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Xml Include="Image\monster.xml">
+      <Filter>리소스 파일</Filter>
+    </Xml>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="ColorShader.hlsl">
+      <Filter>MainGame\ShaderTest</Filter>
+    </FxCompile>
+    <FxCompile Include="AlphaShader.hlsl">
+      <Filter>MainGame\ShaderTest</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

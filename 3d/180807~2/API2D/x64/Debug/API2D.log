@@ -1,0 +1,112 @@
+﻿  stdafx.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.h(22): warning C4091: 'static ': 변수를 선언하지 않으면 'cUtil' 왼쪽은 무시됩니다.
+  API2D.cpp
+  cAirplane.cpp
+  cAutoReleasePool.cpp
+  cBullet.cpp
+  cBulletManager.cpp
+  cGameObject.cpp
+  cMap.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmap.cpp(38): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmap.cpp(40): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cMatrix.cpp
+  cMiner.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cminer.cpp(40): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cminer.cpp(44): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cminer.cpp(48): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cminer.cpp(52): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cObstacle.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cobstacle.cpp(22): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cTile.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\ctile.cpp(122): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cUIButton.cpp
+  cClock.cpp
+  cCrt.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\ccrt.cpp(38): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\ccrt.cpp(40): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\ccrt.cpp(52): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cEnemy.cpp
+  cImage.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(135): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(147): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(146): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(145): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(144): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(152): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(153): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(172): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cimage.cpp(173): warning C4267: 'return': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cMainGame.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(56): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(192): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(248): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(249): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(250): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cmaingame.cpp(251): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cMessageCenter.cpp
+  cNode.cpp
+  cObject.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  cPathFollower.cpp
+  cPlayer.cpp
+  cPoint2N.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cpoint2n.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cpoint2n.cpp(63): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cRadioButton.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(35): warning C4244: '인수': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(38): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(39): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(42): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(51): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(68): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(69): warning C4267: '=': 'size_t'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cradiobutton.cpp(72): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cUIItemImage.cpp
+  cUISlot.cpp
+  cUISlotContainer.cpp
+  cSpriteSheet.cpp
+  cSpriteSheetAnimation.cpp
+  cTimeManager.cpp
+  cUIImageButton.cpp
+  cUIObject.cpp
+  cUtil.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(18): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(17): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(50): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(51): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(52): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(53): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(72): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(73): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(74): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(75): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(76): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(77): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(78): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(79): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(132): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(166): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cutil.cpp(167): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector2.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cvector2.cpp(12): warning C4244: '초기화 중': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cvector2.cpp(13): warning C4244: '초기화 중': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cvector2.cpp(44): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cvector2.cpp(45): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cUIWindow.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cuiwindow.cpp(62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\cuiwindow.cpp(92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector3.cpp
+  iAnimation.cpp
+  iMinerState.cpp
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\iminerstate.cpp(70): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\documents\카카오톡 받은 파일\180807~2\api2d\iminerstate.cpp(71): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  API2D.vcxproj -> C:\Users\김도형\Documents\카카오톡 받은 파일\180807~2\x64\Debug\API2D.exe

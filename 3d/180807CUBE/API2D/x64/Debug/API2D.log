@@ -1,0 +1,7 @@
+﻿  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\3d\180807cube\api2d\cmaingame.cpp(129): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\3d\180807cube\api2d\cmaingame.cpp(159): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\3d\180807cube\api2d\cmaingame.cpp(160): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\3d\180807cube\api2d\cmaingame.cpp(161): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\3d\180807cube\api2d\cmaingame.cpp(162): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\3d\180807CUBE\x64\Debug\API2D.exe

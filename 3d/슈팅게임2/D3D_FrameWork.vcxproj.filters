@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\SingletonBase">
+      <UniqueIdentifier>{a184f492-cb42-4079-8a0c-f8f57896123e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Framework">
+      <UniqueIdentifier>{b04e0fb8-4cf6-443e-b155-af40231257c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Framework\Device">
+      <UniqueIdentifier>{13818e76-0741-48b9-8756-56e23e71762d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame">
+      <UniqueIdentifier>{8f07ef56-3037-4621-be31-be98892a58ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Framework\Key">
+      <UniqueIdentifier>{b9327a50-da08-41ca-97da-65937e62abd9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class">
+      <UniqueIdentifier>{92b5ca56-9c02-43d9-8b83-3663f971bd32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class\EnemyClass">
+      <UniqueIdentifier>{4e143e9b-b47c-4954-bd6c-e1678534e5a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class\BulletClass">
+      <UniqueIdentifier>{b60f2f88-ec4c-4ce3-852d-57ee9b09e407}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class\PlayerClass">
+      <UniqueIdentifier>{61291bc4-62f2-4069-8dd9-2779437df5f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class\BulletClass\BulletManager">
+      <UniqueIdentifier>{580e052a-a868-49ec-b790-6ee06bb7db51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\MainGame\Class\EnemyClass\EnemyManager">
+      <UniqueIdentifier>{3c415c0d-ceae-4529-87e8-7ec2728b6f7a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMain.h">
+      <Filter>소스 파일\MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="winMain.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DefineHeader.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SingletonBase.h">
+      <Filter>소스 파일\SingletonBase</Filter>
+    </ClInclude>
+    <ClInclude Include="DeviceModule.h">
+      <Filter>소스 파일\Framework\Device</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyModule.h">
+      <Filter>소스 파일\Framework\Key</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerClass.h">
+      <Filter>소스 파일\MainGame\Class\PlayerClass</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyClass.h">
+      <Filter>소스 파일\MainGame\Class\EnemyClass</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletClass.h">
+      <Filter>소스 파일\MainGame\Class\BulletClass</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletManager.h">
+      <Filter>소스 파일\MainGame\Class\BulletClass\BulletManager</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>소스 파일\MainGame\Class\EnemyClass\EnemyManager</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMain.cpp">
+      <Filter>소스 파일\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="winMain.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DeviceModule.cpp">
+      <Filter>소스 파일\Framework\Device</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyModule.cpp">
+      <Filter>소스 파일\Framework\Key</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerClass.cpp">
+      <Filter>소스 파일\MainGame\Class\PlayerClass</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyClass.cpp">
+      <Filter>소스 파일\MainGame\Class\EnemyClass</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletClass.cpp">
+      <Filter>소스 파일\MainGame\Class\BulletClass</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletManager.cpp">
+      <Filter>소스 파일\MainGame\Class\BulletClass\BulletManager</Filter>
+    </ClCompile>
+    <ClCompile Include="isCollision.cpp">
+      <Filter>소스 파일\MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>소스 파일\MainGame\Class\EnemyClass\EnemyManager</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="D3D_FrameWork.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="D3D_FrameWork.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

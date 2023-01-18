@@ -1,0 +1,3 @@
+﻿  ShaderTest.cpp
+c:\users\김도형\downloads\픽셀셰이더응용\shadertest.cpp(67): warning C4244: '인수': 'UINT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DXFrameWork.vcxproj -> C:\Users\김도형\Downloads\픽셀셰이더응용\Debug\DXFrameWork.exe

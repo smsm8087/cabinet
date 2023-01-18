@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\김도형\downloads\dxframework\stdafx.h(57): fatal error C1083: 포함 파일을 열 수 없습니다. 'vld.h': No such file or directory

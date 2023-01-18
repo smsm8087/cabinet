@@ -1,0 +1,35 @@
+﻿  compilation object save succeeded; see C:\Users\김도형\Downloads\타이머%2B전체화면\Debug\ColorShader.cso
+  compilation object save succeeded; see C:\Users\김도형\Downloads\타이머%2B전체화면\Debug\AlphaShader.cso
+  compilation object save succeeded; see C:\Users\김도형\Downloads\타이머%2B전체화면\Debug\MultiShader.cso
+  stdafx.cpp
+  Animator.cpp
+  Camera.cpp
+c:\users\김도형\downloads\타이머%2b전체화면\camera.cpp(25): warning C4244: '인수': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\downloads\타이머%2b전체화면\camera.cpp(24): warning C4244: '인수': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Device.cpp
+  DXFrameWork.cpp
+  InputManager.cpp
+  MainGame.cpp
+  Monster.cpp
+  PaintTool.cpp
+c:\users\김도형\downloads\타이머%2b전체화면\painttool.cpp(87): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Planet.cpp
+  Shader.cpp
+  ShaderTest.cpp
+  SolarSystem.cpp
+  SRTTest.cpp
+c:\users\김도형\downloads\타이머%2b전체화면\srttest.cpp(24): warning C4244: '인수': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\downloads\타이머%2b전체화면\srttest.cpp(23): warning C4244: '인수': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Texture.cpp
+  TextureTest.cpp
+  Timer.cpp
+  TweakBar.cpp
+  World.cpp
+  WVPTest.cpp
+c:\users\김도형\downloads\타이머%2b전체화면\wvptest.cpp(25): warning C4244: '인수': 'DWORD'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Xml.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  XmlTest.cpp
+  코드를 생성하고 있습니다...
+  DXFrameWork.vcxproj -> C:\Users\김도형\Downloads\타이머%2B전체화면\Debug\DXFrameWork.exe

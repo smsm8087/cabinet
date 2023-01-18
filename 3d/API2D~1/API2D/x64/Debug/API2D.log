@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cutil.h(7): warning C4091: 'static ': 변수를 선언하지 않으면 'cUtil' 왼쪽은 무시됩니다.
+  API2D.cpp
+  cCharacterImage.cpp
+  cFigthImage.cpp
+  cInventory.cpp
+  cMainGame.cpp
+  cMapImage.cpp
+  cPoint2N.cpp
+  cTimeManager.cpp
+  cUtil.cpp
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cutil.cpp(10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cutil.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cutil.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cutil.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector2.cpp
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cvector2.cpp(34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\woor0\desktop\숙제 및 수업\숙제\api2d포켓몬스터모작\api2d\cvector2.cpp(35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  API2D.vcxproj -> C:\Users\woor0\Desktop\숙제 및 수업\숙제\API2D포켓몬스터모작\x64\Debug\API2D.exe

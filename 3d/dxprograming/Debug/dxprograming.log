@@ -1,0 +1,3 @@
+﻿  cMaingame.cpp
+c:\users\김도형\desktop\sga수업\3d\dxprograming\cmaingame.cpp(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  dxprograming.vcxproj -> C:\Users\김도형\Desktop\SGA수업\3d\dxprograming\Debug\dxprograming.exe
