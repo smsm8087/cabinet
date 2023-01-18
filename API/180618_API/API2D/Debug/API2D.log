@@ -1,0 +1,81 @@
+﻿  stdafx.cpp
+d:\박철진\180618_api\api2d\cutil.h(17): warning C4091: 'static ': 변수를 선언하지 않으면 'cUtil' 왼쪽은 무시됩니다.
+  API2D.cpp
+  cAirplane.cpp
+  cAutoReleasePool.cpp
+  cBullet.cpp
+  cBulletManager.cpp
+  cUIButton.cpp
+  cClock.cpp
+  cCrt.cpp
+d:\박철진\180618_api\api2d\ccrt.cpp(11): warning C4244: '인수': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\ccrt.cpp(77): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\ccrt.cpp(78): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\ccrt.cpp(79): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\ccrt.cpp(80): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cEnemy.cpp
+  cImage.cpp
+d:\박철진\180618_api\api2d\cimage.cpp(82): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(84): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(95): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(103): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(104): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cimage.cpp(121): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cJumpDownState.cpp
+  cJumpUpState.cpp
+  cLandingState.cpp
+  cMainGame.cpp
+  cMessageCenter.cpp
+  cNode.cpp
+  cObject.cpp
+  cPathFollower.cpp
+  cPlayer.cpp
+  cPoint2N.cpp
+d:\박철진\180618_api\api2d\cpoint2n.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cpoint2n.cpp(63): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  cRadioButton.cpp
+d:\박철진\180618_api\api2d\cradiobutton.cpp(35): warning C4244: '인수': 'unsigned long'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cradiobutton.cpp(35): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cUIItemImage.cpp
+  cUISlot.cpp
+  cUISlotContainer.cpp
+  cSpriteSheet.cpp
+  cSpriteSheetAnimation.cpp
+  cTimeManager.cpp
+  cUIImageButton.cpp
+  cUIObject.cpp
+  cUtil.cpp
+d:\박철진\180618_api\api2d\cutil.cpp(10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(20): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(21): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(22): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(23): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(42): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(43): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(44): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(45): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(46): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(47): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(48): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(49): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cutil.cpp(102): warning C4244: 'return': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector2.cpp
+d:\박철진\180618_api\api2d\cvector2.cpp(12): warning C4244: '초기화 중': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cvector2.cpp(13): warning C4244: '초기화 중': 'const LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cvector2.cpp(44): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cvector2.cpp(45): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cUIWindow.cpp
+d:\박철진\180618_api\api2d\cuiwindow.cpp(62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\박철진\180618_api\api2d\cuiwindow.cpp(92): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iAnimation.cpp
+  iCrtState.cpp
+  코드를 생성하고 있습니다...
+  API2D.vcxproj -> D:\박철진\180618_API\Debug\API2D.exe

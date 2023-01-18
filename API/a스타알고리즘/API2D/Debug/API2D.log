@@ -1,0 +1,32 @@
+﻿  stdafx.cpp
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cutil.h(6): warning C4091: 'static ': 변수를 선언하지 않으면 'cUtil' 왼쪽은 무시됩니다.
+  API2D.cpp
+  cImage.cpp
+  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(27): warning C4150: 불완전한 형식 'cPlayer'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.h(4): note: 'cPlayer' 선언을 참조하십시오.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(147): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(150): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(153): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(156): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(159): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(160): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(163): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(164): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(167): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(168): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(171): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(172): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.cpp(400): warning C4150: 불완전한 형식 'cAirplane'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cmaingame.h(3): note: 'cAirplane' 선언을 참조하십시오.
+  cTimeManager.cpp
+  cUtil.cpp
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cutil.cpp(10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cutil.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cutil.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cutil.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector2.cpp
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cvector2.cpp(34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\a스타알고리즘\api2d\cvector2.cpp(35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\a스타알고리즘\Debug\API2D.exe

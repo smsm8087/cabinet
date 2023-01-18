@@ -1,0 +1,10 @@
+﻿  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(73): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(74): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(75): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(76): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(90): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(91): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(122): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180621_api_piexl(픽셀충돌)\api2d\cmaingame.cpp(163): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\180621_API_Piexl(픽셀충돌)\x64\Debug\API2D.exe

@@ -1,0 +1,6 @@
+﻿  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\api\연습1\api2d\cmaingame.cpp(18): warning C4150: 불완전한 형식 'cPlayer'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\연습1\api2d\cmaingame.h(4): note: 'cPlayer' 선언을 참조하십시오.
+c:\users\김도형\desktop\sga수업\api\연습1\api2d\cmaingame.cpp(107): warning C4150: 불완전한 형식 'cAirplane'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\연습1\api2d\cmaingame.h(3): note: 'cAirplane' 선언을 참조하십시오.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\연습1\Debug\API2D.exe

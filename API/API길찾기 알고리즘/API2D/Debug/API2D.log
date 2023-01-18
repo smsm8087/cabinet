@@ -1,0 +1,8 @@
+﻿  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.cpp(23): warning C4150: 불완전한 형식 'cPlayer'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.h(4): note: 'cPlayer' 선언을 참조하십시오.
+c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.cpp(59): warning C4552: '+': 식의 결과가 사용되지 않습니다.
+c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.cpp(60): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.cpp(305): warning C4150: 불완전한 형식 'cAirplane'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\api프레임워크\api2d\cmaingame.h(3): note: 'cAirplane' 선언을 참조하십시오.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\API프레임워크\Debug\API2D.exe

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="유틸">
+      <UniqueIdentifier>{507b5f9e-53e3-4bb2-b962-d076f2f3354e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="이미지">
+      <UniqueIdentifier>{c3503ec7-b0ff-4e3c-98db-fc53c78ee58b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="인터페이스">
+      <UniqueIdentifier>{8a8e5bdd-8429-419f-834f-51c964351938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02.MAINPLAY">
+      <UniqueIdentifier>{7540b203-870b-4a9f-ac51-9229ce93f38a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01.MAINROOM">
+      <UniqueIdentifier>{fe9d0c08-f957-4703-8a0d-6fc8d1592024}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="API2D.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cButton.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cPoint2N.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cUtil.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cTimeManager.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cVector2.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cImage.h">
+      <Filter>이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="cSpriteSheet.h">
+      <Filter>이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="cSpriteSheetAnimation.h">
+      <Filter>이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="cCrt.h">
+      <Filter>이미지</Filter>
+    </ClInclude>
+    <ClInclude Include="iCrtState.h">
+      <Filter>인터페이스</Filter>
+    </ClInclude>
+    <ClInclude Include="iAnimation.h">
+      <Filter>인터페이스</Filter>
+    </ClInclude>
+    <ClInclude Include="iCharacter.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cKeyManager.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayer.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cMap.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cBomb.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cItem.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainPlay.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainGame.h">
+      <Filter>02.MAINPLAY</Filter>
+    </ClInclude>
+    <ClInclude Include="cLobby.h">
+      <Filter>01.MAINROOM</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="API2D.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cVector2.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cButton.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cPoint2N.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cTimeManager.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cUtil.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cImage.cpp">
+      <Filter>이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="cCrt.cpp">
+      <Filter>이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="cSpriteSheet.cpp">
+      <Filter>이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="cSpriteSheetAnimation.cpp">
+      <Filter>이미지</Filter>
+    </ClCompile>
+    <ClCompile Include="iCrtState.cpp">
+      <Filter>인터페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="iAnimation.cpp">
+      <Filter>인터페이스</Filter>
+    </ClCompile>
+    <ClCompile Include="cKeyManager.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayer.cpp">
+      <Filter>02.MAINPLAY</Filter>
+    </ClCompile>
+    <ClCompile Include="cMap.cpp">
+      <Filter>02.MAINPLAY</Filter>
+    </ClCompile>
+    <ClCompile Include="cBomb.cpp">
+      <Filter>02.MAINPLAY</Filter>
+    </ClCompile>
+    <ClCompile Include="cItem.cpp">
+      <Filter>02.MAINPLAY</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainPlay.cpp">
+      <Filter>02.MAINPLAY</Filter>
+    </ClCompile>
+    <ClCompile Include="cLobby.cpp">
+      <Filter>01.MAINROOM</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="API2D.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="API2D.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

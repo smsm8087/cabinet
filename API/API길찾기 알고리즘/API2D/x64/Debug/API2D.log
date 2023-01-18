@@ -1,0 +1,22 @@
+﻿  cMainGame.cpp
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\caddcircle.h(24): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(45): warning C4150: 불완전한 형식 'cPlayer'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.h(4): note: 'cPlayer' 선언을 참조하십시오.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(261): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(264): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(268): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(442): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(443): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(444): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(445): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(580): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(581): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(598): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(598): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(611): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(611): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(624): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned __int64'입니다.
+  c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(624): note: 서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.cpp(829): warning C4150: 불완전한 형식 'cAirplane'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+  c:\users\김도형\desktop\sga수업\api\api길찾기 알고리즘\api2d\cmaingame.h(3): note: 'cAirplane' 선언을 참조하십시오.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\API길찾기 알고리즘\x64\Debug\API2D.exe

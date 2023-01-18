@@ -1,0 +1,42 @@
+﻿  stdafx.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cutil.h(7): warning C4091: 'static ': 변수를 선언하지 않으면 'cUtil' 왼쪽은 무시됩니다.
+  API2D.cpp
+  cAirplane.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cairplane.cpp(36): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cairplane.cpp(37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cBullet.cpp
+  cBulletManager.cpp
+  cButton.cpp
+  cClock.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(41): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(82): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(86): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cclock.cpp(98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cCrt.cpp
+  cEnemy.cpp
+  cImage.cpp
+  cMainGame.cpp
+  cNode.cpp
+  cPathFollower.cpp
+  cPlayer.cpp
+  cPoint2N.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cpoint2n.cpp(39): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cpoint2n.cpp(63): warning C4244: 'return': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cSpriteSheet.cpp
+  cSpriteSheetAnimation.cpp
+  cTimeManager.cpp
+  cUtil.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cutil.cpp(10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cutil.cpp(9): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cutil.cpp(8): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cutil.cpp(7): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cVector2.cpp
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cvector2.cpp(34): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180523똥피하기\api2d\cvector2.cpp(35): warning C4244: '=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  iAnimation.cpp
+  코드를 생성하고 있습니다...
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\180523똥피하기\Debug\API2D.exe

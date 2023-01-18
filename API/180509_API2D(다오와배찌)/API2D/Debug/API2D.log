@@ -1,0 +1,13 @@
+﻿  ConvexHull.cpp
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(76): warning C4244: '초기화 중': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(87): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(88): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(91): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(92): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(98): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(100): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(101): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(104): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(105): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김도형\desktop\sga수업\api\180509_api2d(다오와배찌)\api2d\convexhull.cpp(150): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  API2D.vcxproj -> C:\Users\김도형\Desktop\SGA수업\API\180509_API2D(다오와배찌)\Debug\API2D.exe
