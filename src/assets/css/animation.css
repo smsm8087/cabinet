@@ -1,8 +1,0 @@
-@keyframes borderBottom {
-    0% {
-        border-bottom: 0;
-    }
-    100% {
-        border-bottom: .2rem solid #ffffff;
-    }
-}
